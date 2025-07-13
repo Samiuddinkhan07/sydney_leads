@@ -1,4 +1,4 @@
-import { CrossIcon, MenuIcon, X } from "lucide-react";
+import {  MenuIcon, X } from "lucide-react";
 import { Button } from "../ui/button";
 import { Links as link } from "./constant";
 import { useState } from "react";
